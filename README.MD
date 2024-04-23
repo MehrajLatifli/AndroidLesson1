@@ -1,6 +1,6 @@
  <img src="Screen.PNG" alt="Screen" width="50%" height="50%"> 
 
- ```kotlin
+ ```gradle
 
      buildFeatures {
         viewBinding = true
