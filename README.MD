@@ -11,16 +11,19 @@
     }
 
  ```
-
+ 
+<br/>
  <img src="Screen.PNG" alt="Screen" width="50%" height="50%"> 
 
+<br/>
+
   ```kotlin
+
 
 package com.example.androidlesson1
 
 import android.graphics.Color
 import android.os.Bundle
-import android.util.Log // Import Log class
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -53,6 +56,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
 
 
  ```
